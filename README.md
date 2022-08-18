@@ -8,3 +8,6 @@ Primanda Adyatma Hafiz
 - Kotlin
 - Express Js
 - Postgres SQL
+
+## How To Use
+You can download the app <a href="https://github.com/primahafiz/app-timnas-score/raw/main/TimnasScore.apk">here</a>
