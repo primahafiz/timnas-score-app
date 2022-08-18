@@ -10,4 +10,4 @@ Primanda Adyatma Hafiz
 - Postgres SQL
 
 ## How To Use
-You can download the app <a href="https://github.com/primahafiz/app-timnas-score/raw/main/TimnasScore.apk">here</a>
+You can download the app <a href="https://github.com/primahafiz/timnas-score-app/raw/main/TimnasScore.apk">here</a>
